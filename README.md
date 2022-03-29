@@ -1,5 +1,5 @@
 # CabinetStructure
 
-## for more clear on pdf 
+## check .pdf file
 
 
